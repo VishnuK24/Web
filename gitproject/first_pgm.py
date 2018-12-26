@@ -5,5 +5,5 @@ def main():
     print("edited by aswin 2 nd time")
 
 
-if __name__ == '__main__':
+if __name__ == '__main__'
     main()
