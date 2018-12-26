@@ -4,5 +4,6 @@ def main():
     print("edited by aswin 2 nd time")
     print("edited by aswin 3rd time ")
 
-if __name__ == '__main__'
+
+if __name__ == '__main__':
     main()
