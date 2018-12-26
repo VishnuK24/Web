@@ -1,5 +1,5 @@
 def main():
-    print("hello world")
+    print("welcome to my world")
     print("this is my first pgm")
 
 
